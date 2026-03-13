@@ -51,7 +51,7 @@ public class Multiplier {
     if (mode.equals("positiveResult")) {
       setPositiveResultMode();
     }
-    if (mode.equals("general")) {}
+    if (mode.equals("general")) {
       setGeneralMode();
     }
     System.out.println(multiply());
